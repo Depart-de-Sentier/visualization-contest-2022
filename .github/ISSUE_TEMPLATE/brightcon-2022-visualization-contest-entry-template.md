@@ -1,6 +1,6 @@
 ---
 name: Brightcon 2022 visualization contest entry template
-about: This issue presents an entry to the Brightcon 2022 open visualization contest.
+about: Please use this issue template to present your entry to the Brightcon 2022 open visualization contest. Click on the *Get Started* button on the right.
 title: Contest entry - [your entry name]
 labels: ''
 assignees: ''
