@@ -33,6 +33,7 @@ The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoi
 ## Rules
 
 * Entries must be submitted by 12:00 UTC on September 27, 2022
+* Entries can be from individuals or teams. Teams must nominate one member to receive the prize money.
 * Entries are submitted by creating a [new issue in the contest repository](https://github.com/Depart-de-Sentier/visualization-contest-brightcon-2022/issues) with the label `entry`. Entries must include links to the visualization, the code used to create the visualization, and a video if the participant will not be at the Brightcon contest. Participants at the contest will present their entries in person.
 * Entries must include linked source code with an open license. Entry code licensed using the GPL or AGPL are not eligible for prizes.
 * Entries must be complete software programs which consume one of the example datasets or other LCA/MFA/Industrial Ecology data. Please provide a link if not using the data provided. Installation instructions must be provided if needed.
