@@ -20,6 +20,8 @@ The example data has the following files and file structure:
 * `characterization`: Characterization matrices for the different impact categories which list the relative impact of emissions (e.g. methane has more global warming potential than CO2)
 * `graphs`: Graph traversal results for four impact categories and five products each which show *how* impacts can flow down the supply chain. The data format [is explained in the documentation](https://github.com/brightway-lca/brightway2-calc/blob/master/bw2calc/graph_traversal.py#L253).
 
+If you have questions, please [create an issue](https://github.com/Depart-de-Sentier/visualization-contest-brightcon-2022/issues/new), give it the label "question", and tag @cmutel and @tngTUDOR in the question text.
+
 ## Prize fund
 
 The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoinvent.org/). Thanks a lot!
