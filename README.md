@@ -22,7 +22,7 @@ The example data has the following files and file structure:
 
 ## Prize fund
 
-The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoinvent.org/) and supplemented by [Cauldron Solutions](https://www.cauldron.ch/).
+The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoinvent.org/). Thanks a lot!
 
 * First place: €1000
 * Second place: €500
@@ -31,8 +31,8 @@ The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoi
 ## Rules
 
 * Entries must be submitted by 12:00 UTC on September 27, 2022
-* Participants must either attend Brightcon 2022 (preferred, as you can present your submission in front of the audience), or submit a maximum four minute video
+* Entries are submitted by creating a [new issue in the contest repository](https://github.com/Depart-de-Sentier/visualization-contest-brightcon-2022/issues) with the label `entry`. Entries must include links to the visualization, the code used to create the visualization, and a video if the participant will not be at the Brightcon contest. Participants at the contest will present their entries in person.
 * Entries must include linked source code with an open license. Entry code licensed using the GPL or AGPL are not eligible for prizes.
-* Entries must be complete software programs which consume one of the example datasets or other provided data. Installation instructions must be provided if needed.
+* Entries must be complete software programs which consume one of the example datasets or other LCA/MFA/Industrial Ecology data. Please provide a link if not using the data provided. Installation instructions must be provided if needed.
 * Prizes will be awarded by the Brightcon audience on September 29, 2022.
 * Monetary prizes can only be awarded to participants in countries reachable via either a SWIFT transaction or via Wise.com. The organizing committee reserves the right to cancel monetary prizes in cases where the award of such prizes would pose legal or reputational risks.
