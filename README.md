@@ -1,4 +1,4 @@
-# Visualization contest for Brightcon 2022
+# Sustainability assessment visualization contest
 
 Visualization of life cycle assessment information could be significantly improved. Visualization of input data, calculation results, and interpretation algorithms helps us understand what we can say, how strongly we can believe it, and where we should prioritize future work. We invite entries on visualization schemes, graph layouts, and interactive programs; All forms of visualization are acceptable.
 
