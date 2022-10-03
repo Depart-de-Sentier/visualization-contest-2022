@@ -29,7 +29,7 @@ Please specify here the location of the code that produced the visualization sub
 Please specify here the location of the example visualizations produced with your code.
 
 ### Presentation video
-In case you are not presenting your submission in person, please put here the links to a video of maximum 4 minutes where you present your visualization.
+Please put here the links to a video of maximum 4 minutes where you present your visualization.
 
 ## License
 Please specify the open license you used.
