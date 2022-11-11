@@ -32,7 +32,7 @@ The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoi
 
 ## Rules
 
-* Entries must be submitted by 12:00 UTC on January 1, 2023
+* Entries must be submitted by 12:00 UTC on January 16, 2023
 * Entries can be from individuals or teams. Teams must nominate one member to receive the prize money.
 * Entries are submitted by creating a [new issue in the contest repository](https://github.com/Depart-de-Sentier/visualization-contest-2022/issues) with the label `entry`. Entries must include links to the visualization, the code used to create the visualization, and a video presenting the visualization.
 * Entries must include linked source code with an open license. Entry code licensed using the GPL or AGPL are not eligible for prizes.
