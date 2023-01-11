@@ -1,5 +1,7 @@
 # Sustainability assessment visualization contest
 
+**Deadline pushed back to February 19, 2023**
+
 Visualization of life cycle assessment information could be significantly improved. Visualization of input data, calculation results, and interpretation algorithms helps us understand what we can say, how strongly we can believe it, and where we should prioritize future work. We invite entries on visualization schemes, graph layouts, and interactive programs; All forms of visualization are acceptable.
 
 We have provided examples of the types of visualization used in life cycle assessment in the [examples directory](https://github.com/Depart-de-Sentier/visualization-contest-2022/tree/main/examples).
@@ -32,7 +34,7 @@ The prize fund is €2000, sponsored by the [ecoinvent association](https://ecoi
 
 ## Rules
 
-* Entries must be submitted by 12:00 UTC on January 16, 2023
+* Entries must be submitted by 12:00 UTC on February 19, 2023
 * Entries can be from individuals or teams. Teams must nominate one member to receive the prize money.
 * Entries are submitted by creating a [new issue in the contest repository](https://github.com/Depart-de-Sentier/visualization-contest-2022/issues) with the label `entry`. Entries must include links to the visualization, the code used to create the visualization, and a video presenting the visualization.
 * Entries must include linked source code with an open license. Entry code licensed using the GPL or AGPL are not eligible for prizes.
