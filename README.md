@@ -1,6 +1,6 @@
 # Sustainability assessment visualization contest
 
-**Deadline pushed back to February 19, 2023**
+**Contest submissions are now closed.**
 
 Visualization of life cycle assessment information could be significantly improved. Visualization of input data, calculation results, and interpretation algorithms helps us understand what we can say, how strongly we can believe it, and where we should prioritize future work. We invite entries on visualization schemes, graph layouts, and interactive programs; All forms of visualization are acceptable.
 
